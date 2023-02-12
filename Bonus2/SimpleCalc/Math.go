@@ -12,3 +12,7 @@ func (P *Pair) add() int {
 func (P *Pair) subtract() int {
 	return P.first - P.second
 }
+
+func (P *Pair) multiply() int {
+	return P.first * P.second
+}

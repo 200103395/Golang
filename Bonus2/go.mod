@@ -1,1 +1,1 @@
-module Bonus2
+module github.com/200103395/Golang/Bonus2
